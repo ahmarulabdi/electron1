@@ -1,0 +1,14 @@
+{
+  "name": "electron1",
+  "version": "1.0.0",
+  "description": "\"simple app with electron\"",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "ahmarul-abdi",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.10"
+  }
+}
